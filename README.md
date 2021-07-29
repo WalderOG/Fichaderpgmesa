@@ -1,4 +1,4 @@
-Projeto de Hibernete
+Projeto de Hibernate
 
 Sistema para criar ficha de RPG de mesa 
 
@@ -11,6 +11,6 @@ parte 3 : Armas
 parte 4 : Dados
 
 
-
+projeto é apenas para eu aprender como usar hibernate
 Centro Universitário Unifaesp
 Walder Octacilio Garbellott
